@@ -1,0 +1,138 @@
+/* @override http://localhost:4000/css/styles.css */
+
+body {
+	font-family: 'Palatino', 'EB Garamond', serif;
+	font-size: 18px;
+	line-height: 1.3em;
+	background: #DDD url(../images/whitey.png) repeat top left;
+	color: #333;
+}
+
+h1, h2, h3 {
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	font-family: 'Droid Sans', sans-serif;
+	line-height: 1em;
+	text-shadow: 0 2px 0 rgba(255,255,255,0);
+}
+
+a, a:visited {color: #059;text-decoration:underline;}
+
+p {
+	margin-bottom: 0.5em;
+}
+
+.row {
+}
+
+#about blockquote {
+	font-style: italic;
+	margin-bottom: 0.5em;
+	
+}
+
+#about .source {
+	text-align: right;
+}
+
+#logo {
+}
+
+/*font-family: 'Carter One', sans-serif;*/
+
+/* ============================== */
+/* ! Layout for desktop version   */
+/* ============================== */
+
+	body {
+		
+	}
+	
+
+/* ============================= */
+/* ! Layout for mobile version   */
+/* ============================= */
+
+@media handheld, only screen and (max-width: 767px) {
+
+	body {
+		
+	}
+
+}
+
+
+/* ========================================== */
+/* ! Provide higher res assets for iPhone 4   */
+/* ========================================== */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { 
+
+/*	.logo {
+		background: url(logo2x.jpg) no-repeat;
+		background-size: 212px 303px;
+	}*/
+
+}
+
+/* From http://nicolasgallagher.com/css-drop-shadows-without-images/demo/ */
+
+/* Shared styles */
+        
+.drop-shadow {
+    position:relative;
+    padding:1em; 
+    margin:1em 10px 2em 10px; 
+    background:#fff;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.drop-shadow:before,
+.drop-shadow:after {
+    content:"";
+    position:absolute; 
+    z-index:-2;
+}
+
+/* Lifted corners */
+
+.lifted {
+    -moz-border-radius:4px; 
+         border-radius:4px;
+}
+
+.lifted:before,
+.lifted:after { 
+    bottom:15px;
+    left:10px;
+    width:50%;
+    height:20%;
+    max-width:300px;
+    -webkit-box-shadow:0 15px 10px rgba(0, 0, 0, 0.5);   
+       -moz-box-shadow:0 15px 10px rgba(0, 0, 0, 0.5);
+            box-shadow:0 15px 10px rgba(0, 0, 0, 0.5);
+    -webkit-transform:rotate(-3deg);    
+       -moz-transform:rotate(-3deg);   
+        -ms-transform:rotate(-3deg);   
+         -o-transform:rotate(-3deg);
+            transform:rotate(-3deg);
+}
+
+.lifted:after {
+    right:10px; 
+    left:auto;
+    -webkit-transform:rotate(3deg);   
+       -moz-transform:rotate(3deg);  
+        -ms-transform:rotate(3deg);  
+         -o-transform:rotate(3deg);
+            transform:rotate(3deg);
+}
+
+/* The Magnificent Clearfix: Updated to prevent margin-collapsing on child elements.
+   j.mp/bestclearfix */
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:after { clear: both; }
+/* Fix clearfix: blueprintcss.lighthouseapp.com/projects/15318/tickets/5-extra-margin-padding-bottom-of-page */
+.clearfix { zoom: 1; }
