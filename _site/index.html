@@ -21,8 +21,8 @@
 	<link href='http://fonts.googleapis.com/css?family=Carter+One|EB+Garamond|Droid+Sans:400,700' rel='stylesheet' type='text/css'>
 	
 	<!--css3-mediaqueries-js - http://code.google.com/p/css3-mediaqueries-js/ - Enables media queries in some unsupported browsers-->
-	<script type="text/javascript" src="js/css3-mediaqueries.js"></script>
-
+	<script type="text/javascript" src="/js/css3-mediaqueries.js"></script>
+    <script type="text/javascript" src="/js/codekollektiv.js"></script>
 </head>
 
 
@@ -35,17 +35,8 @@
     <div class="sixcol">
         <h1 class="title">Welcome to Berlin CocoaHeads!</h1>
         <p>
-            This is the homepage of the Berlin chapter of CocoaHeads.
+            This is the homepage of the Berlin chapter of <a href="http://www.cocoaheads.org/">CocoaHeads</a>.
         </p>
-        <h1>About</h1>
-        <div id="about">
-            <blockquote class="drop-shadow">
-                CocoaHeads is a group devoted to discussion of Apple Computer's Cocoa Framework for programming on iOS and OS X. During monthly meetings, members present on their projects and offer tutorials on various programming topics.
-            </blockquote>
-            <p class="quoteadapt">
-                Adapted from the <a href="http://www.cocoaheads.org/" title="CocoaHeads: International Cocoa Club">official CocoaHeads homepage</a>.
-            </p>
-        </div>
     </div>
     <div class="sixcol last">
         <h1><img id="logo" src="images/cocoaheads-berlin-logo.png" alt="Cocoaheads Berlin Logo">
@@ -56,64 +47,50 @@
 
 <h1>Next meeting</h1>
 
-<p>Meetings are <strong>every 3rd wednesday in a month at 7 p.m.</strong></p>
+<p>We meet on <strong>every 3rd wednesday of the month at 19:00</strong></p>
 
 <p>Next meeting:</p>
 
 <div class="row">
     <div class="drop-shadow lifted fivecol">
-        <b>Wednesday, Sept. 21, 2011</b><br>
-        7 pm<br>
-        CodeKollektiv (adress see below)<br><br>
-        Topic: to be announced
+        <span id="next_meetup"></span><br>
+        at 19:00<br>
+        at the CodeKollektiv office (see below)<br>
     </div>
 </div>
+
+
+<script type="text/javascript">
+    next_meetup();
+</script>
 
 
 <h1>Location</h1>
 
-<p>CocoaHeads is proudly hosted by:</p>
+<p>We meet at:</p>
 
 <div id="codekollektiv-vcard" class="row">
     <div class="drop-shadow lifted fivecol">
-        <p>CodeKollektiv</p>
-        <p>Großbeerenstraße 79, 3rd floor</p>
-        <p>10963 Berlin</p>
-        <p>
-            <a href="http://www.codekollektiv.com">codekollektiv.com</a>
-        </p>
+        <a href="http://www.codekollektiv.de">CodeKollektiv</a><br>
+        Großbeerenstraße 79, 3rd floor<br>
+        10963 Berlin (Kreuzberg)
     </div>
 </div>
 
 
-<h2>Directions</h2>
+<p><a href="http://maps.google.com/maps?q=Gro%C3%9Fbeerenstra%C3%9Fe+79,+10963,+Berlin,+Deutschland&hl=en&ie=UTF8&sll=37.0625,-95.677068&sspn=52.815565,56.953125&vpsrc=6&hnear=Gro%C3%9Fbeerenstra%C3%9Fe+79,+Berlin+10963+Berlin,+Germany&t=v&z=16">CodeKollektiv on Google Maps</a></p>
 
-<p><strong>Google Maps Link</strong></p>
-
-<p>TODO</p>
-
-<p><strong>Closest subway stations:</strong></p>
-
-<ul>
-<li>U Möckernbrücke (U1, U7)</li>
-<li>U Mehringdamm (U6, U7)</li>
-</ul>
-
+<p>The closest subway stations are U Möckernbrücke (U1, U7, 3-5 minutes walking distance) and U Mehringdamm (U6, U7, 5-10 minutes walking distance).</p>
 
 <h2>Food and Drinks</h2>
 
-<p>Drinks are available at the CodeKollektiv for 1 € each bottle.</p>
+<p>Drinks are available on site for €1 per bottle.</p>
 
-<p>Grab some dinner? Our recommendations:</p>
+<p>Wanna grab something to eat before the meetup? There is a good pizza/pasta place on the corner right next to CodeKollektiv. Also, there are a lot of food stalls around U Mehringdamm.</p>
 
-<p>TODO Umgebungskarte</p>
+<h1>Mailing list</h1>
 
-<ol>
-<li>"Pizzamann", open until 10pm</li>
-<li>Curry36</li>
-<li>Dönermann, Exit U6 Mehringdamm</li>
-</ol>
-
+<p>Our mailing list is hosted on <a href="http://groups.google.com/group/berlin-cocoaheads?hl=de" title="Berlin CocoaHeads Mailing List">Google Groups</a>.</p>
 
 <h1>Talks</h1>
 
@@ -126,21 +103,36 @@
 
 <h2>2011</h2>
 
-<p><strong>August</strong></p>
+<h3>December</h3>
 
-<p>-</p>
+<p><strong>Continuous Integration for iOS projects with Jenkins and Hudson</strong><br>
+Falko Richter</p>
 
-<p><strong>July</strong></p>
+<h3>November</h3>
 
-<blockquote><p>Halle Winkler, <a href="http://www.politepix.com" title="Politepix : Where the pixels are polite, now with iPhone app development.">politepix</a>: <strong>OpenEars</strong> | An open source iOS library for speech recognition and text-to-speech for the iPhone and iPad (<a href="http://www.politepix.com/openears" title="OpenEars: a library for voice recognition for iPhone">http://www.politepix.com/openears</a>)</p></blockquote>
+<p><strong>Overview/Introduction to <a href="http://www.cocos2d-iphone.org/">Cocos2D</a></strong><br>
+Ole Begemann, <a href="http://oleb.net">oleb.net</a>, <a href="http://twitter.com/olebegemann">@olebegemann</a></p>
 
-<h1>Mailing list</h1>
+<h3>October</h3>
 
-<p>You find our mailing list at <a href="http://groups.google.com/group/berlin-cocoaheads?hl=de" title="Berlin CocoaHeads | Google Groups">Google Groups</a>.</p>
+<p>(no talk)</p>
 
-<h1>Adress Book</h1>
+<h3>September</h3>
 
-<p>The Address Book page contains a public directory of CocoaHeads Berlin people with a short profile, links to their homepages, Twitter etc..</p>
+<p>(no talk)</p>
+
+<h3>August</h3>
+
+<p>(no talk)</p>
+
+<h3>July</h3>
+
+<p><strong><a href="http://www.politepix.com/openears">OpenEars</a>, an open source iOS library for speech recognition and text-to-speech for the iPhone and iPad</strong><br>
+Halle Winkler, <a href="http://www.politepix.com">politepix.com</a>, <a href="http://twitter.com/politepix">@politepix</a></p>
+
+<h1>CocoaHeads Berlin Members</h1>
+
+<p>To be created: a list of CocoaHeads Berlin members links to websites, Twitter, etc.</p>
 
 			</div>
 		</div>

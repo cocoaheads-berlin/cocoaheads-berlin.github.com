@@ -7,17 +7,8 @@ title: Welcome!
 	<div class="sixcol">
 		<h1 class="title">Welcome to Berlin CocoaHeads!</h1>
 		<p>
-			This is the homepage of the Berlin chapter of CocoaHeads.
+			This is the homepage of the Berlin chapter of <a href="http://www.cocoaheads.org/">CocoaHeads</a>.
 		</p>
-		<h1>About</h1>
-		<div id="about">
-			<blockquote class="drop-shadow">
-				CocoaHeads is a group devoted to discussion of Apple Computer's Cocoa Framework for programming on iOS and OS X. During monthly meetings, members present on their projects and offer tutorials on various programming topics.
-			</blockquote>
-			<p class="quoteadapt">
-				Adapted from the <a href="http://www.cocoaheads.org/" title="CocoaHeads: International Cocoa Club">official CocoaHeads homepage</a>.
-			</p>
-		</div>
 	</div>
 	<div class="sixcol last">
 		<h1><img id="logo" src="images/cocoaheads-berlin-logo.png" alt="Cocoaheads Berlin Logo">
@@ -27,56 +18,46 @@ title: Welcome!
 
 # Next meeting
 
-Meetings are **every 3rd wednesday in a month at 7 p.m.**
+We meet on **every 3rd wednesday of the month at 19:00**
 
 Next meeting:
 
 <div class="row">
 	<div class="drop-shadow lifted fivecol">
-		<b>Wednesday, Sept. 21, 2011</b><br>
-		7 pm<br>
-		CodeKollektiv (adress see below)<br><br>
-		Topic: to be announced
+        <span id="next_meetup"></span><br>
+		at 19:00<br>
+		at the CodeKollektiv office (see below)<br>
 	</div>
 </div>
+<script type="text/javascript">
+	next_meetup();
+</script>
 
 # Location
 
-CocoaHeads is proudly hosted by:
+We meet at:
 
 <div id="codekollektiv-vcard" class="row">
 	<div class="drop-shadow lifted fivecol">
-		<p>CodeKollektiv</p>
-		<p>Großbeerenstraße 79, 3rd floor</p>
-		<p>10963 Berlin</p>
-		<p>
-			<a href="http://www.codekollektiv.com">codekollektiv.com</a>
-		</p>
+		<a href="http://www.codekollektiv.de">CodeKollektiv</a><br>
+		Großbeerenstraße 79, 3rd floor<br>
+		10963 Berlin (Kreuzberg)
 	</div>
 </div>
 
-## Directions
+<a href="http://maps.google.com/maps?q=Gro%C3%9Fbeerenstra%C3%9Fe+79,+10963,+Berlin,+Deutschland&hl=en&ie=UTF8&sll=37.0625,-95.677068&sspn=52.815565,56.953125&vpsrc=6&hnear=Gro%C3%9Fbeerenstra%C3%9Fe+79,+Berlin+10963+Berlin,+Germany&t=v&z=16">CodeKollektiv on Google Maps</a>
 
-**Google Maps Link**
-
-TODO
-
-**Closest subway stations:**
-
-* U Möckernbrücke (U1, U7)
-* U Mehringdamm (U6, U7)
+The closest subway stations are U Möckernbrücke (U1, U7, 3-5 minutes walking distance) and U Mehringdamm (U6, U7, 5-10 minutes walking distance).
 
 ## Food and Drinks
 
-Drinks are available at the CodeKollektiv for 1 € each bottle.
+Drinks are available on site for €1 per bottle.
 
-Grab some dinner? Our recommendations:
+Wanna grab something to eat before the meetup? There is a good pizza/pasta place on the corner right next to CodeKollektiv. Also, there are a lot of food stalls around U Mehringdamm.
 
-TODO Umgebungskarte
+# Mailing list
 
-1. "Pizzamann", open until 10pm
-1. Curry36
-1. Dönermann, Exit U6 Mehringdamm
+Our mailing list is hosted on [Google Groups](http://groups.google.com/group/berlin-cocoaheads?hl=de "Berlin CocoaHeads Mailing List").
 
 # Talks
 
@@ -88,18 +69,33 @@ TODO Umgebungskarte
 
 ## 2011
 
-**August**
+### December
 
--
+**Continuous Integration for iOS projects with Jenkins and Hudson**<br>
+Falko Richter
 
-**July**
+### November
 
->Halle Winkler, [politepix](http://www.politepix.com "Politepix : Where the pixels are polite, now with iPhone app development."): **OpenEars** | An open source iOS library for speech recognition and text-to-speech for the iPhone and iPad ([http://www.politepix.com/openears](http://www.politepix.com/openears "OpenEars: a library for voice recognition for iPhone"))
+**Overview/Introduction to [Cocos2D](http://www.cocos2d-iphone.org/)**<br>
+Ole Begemann, [oleb.net](http://oleb.net), [@olebegemann](http://twitter.com/olebegemann)
 
-# Mailing list
+### October
 
-You find our mailing list at [Google Groups](http://groups.google.com/group/berlin-cocoaheads?hl=de "Berlin CocoaHeads | Google Groups").
+(no talk)
 
-# Adress Book
+### September
 
-The Address Book page contains a public directory of CocoaHeads Berlin people with a short profile, links to their homepages, Twitter etc..
+(no talk)
+
+### August
+
+(no talk)
+
+### July
+
+**[OpenEars](http://www.politepix.com/openears), an open source iOS library for speech recognition and text-to-speech for the iPhone and iPad**<br>
+Halle Winkler, [politepix.com](http://www.politepix.com), [@politepix](http://twitter.com/politepix)
+
+# CocoaHeads Berlin Members
+
+To be created: a list of CocoaHeads Berlin members links to websites, Twitter, etc.
