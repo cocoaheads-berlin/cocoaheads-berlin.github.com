@@ -79,6 +79,8 @@ Falko Richter
 **Overview/Introduction to [Cocos2D](http://www.cocos2d-iphone.org/)**<br>
 Ole Begemann, [oleb.net](http://oleb.net), [@olebegemann](http://twitter.com/olebegemann)
 
+[Slides (PDF)](/assets/cocos2d-ole-begemann-2011-11.pdf)
+
 ### October
 
 (no talk)
