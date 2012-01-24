@@ -67,6 +67,15 @@ Our mailing list is hosted on [Google Groups](http://groups.google.com/group/ber
 	</div>
 </div>
 
+## 2012
+
+### January
+
+**How does iCloud work?**<br>
+Christian Beer, [chbeer.de](http://chbeer.de), [@christian_beer](http://twitter.chbeer.de)
+
+[Slides (PDF)](/assets/icloud-christian-beer-2012-01.pdf)
+
 ## 2011
 
 ### December
