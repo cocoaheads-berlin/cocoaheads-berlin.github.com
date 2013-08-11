@@ -18,15 +18,20 @@ title: Welcome!
 
 # Next meeting
 
-We meet on **every 3rd wednesday of the month at 19:00**
+We meet on **every 3rd Wednesday of the month at 7 pm.**
 
 Next meeting:
 
 <div class="row">
 	<div class="drop-shadow lifted fivecol">
         <span id="next_meetup"></span><br>
-		at 19:00<br>
-		at the CodeKollektiv office (see below)<br>
+		at 7 pm<br><br/>
+		<p><strong>Special location: <br/>
+		Wooga<br/>
+		Saarbruecker Str. 38 (close to Alexanderplatz)
+		10405 Berlin</strong><br/>
+		<a href="http://www.wooga.com/about/contact-2/">Directions</a>
+		</p>
 	</div>
 </div>
 <script type="text/javascript">
@@ -35,7 +40,9 @@ Next meeting:
 
 # Location
 
-We meet at:
+**Please note: on Aug 21st, we meet at Wooga (see above) and *not* at CodeKollektiv!**
+
+Usually we meet at:
 
 <div id="codekollektiv-vcard" class="row">
 	<div class="drop-shadow lifted fivecol">
@@ -66,6 +73,11 @@ Our mailing list is hosted on [Google Groups](http://groups.google.com/group/ber
 		Suggest or vote on the next topic: <a href="http://goo.gl/mod/vaua" title="Participate in the surveys">Participate in the surveys</a>!
 	</div>
 </div>
+
+## 2013
+
+* ...
+* [Chris Eidhof](http://www.eidhof.nl): AppCode
 
 ## 2012
 
