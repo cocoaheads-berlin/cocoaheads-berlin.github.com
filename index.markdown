@@ -72,7 +72,7 @@ list!
 
 ### August 21 (at Wooga)
 
-**iOS Toolchain at Wooga**<br>
+**iOS Toolchain at Wooga** ([slides](http://www.slideshare.net/MattesGroeger/slides-woogaios-toolchain))<br>
 [Mattes Groeger](http://mattes-groeger.de/) ([@MattesGroeger](https://twitter.com/MattesGroeger))
 
 Mattes talked about the iOS toolchain at [Wooga](http://www.wooga.com),
