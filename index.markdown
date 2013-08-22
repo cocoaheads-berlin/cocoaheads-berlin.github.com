@@ -79,7 +79,7 @@ Mattes talked about the iOS toolchain at [Wooga](http://www.wooga.com),
 showing which tools they use for building, testing and releasing their
 games.
 
-**CBCouchbaseIncrementalStore**<br>
+**CBCouchbaseIncrementalStore** ([slides](https://speakerdeck.com/chbeer/cbcouchbaseincrementalstore))<br>
 [Christian Beer](http://chbeer.de) ([@christian_beer](http://www.twitter.com/christian_beer))
 
 Christian talked about his custom NSIncrementalStore implementation that
