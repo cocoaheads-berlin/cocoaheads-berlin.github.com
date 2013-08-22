@@ -26,11 +26,6 @@ Next meeting:
 	<div class="drop-shadow lifted fivecol">
         <span id="next_meetup"></span><br>
 		at 7 pm<br><br/>
-		<p><strong>Special location: <br/>
-		Wooga<br/>
-		Saarbruecker Str. 38 (close to Alexanderplatz)
-		10405 Berlin</strong><br/>
-		<a href="http://www.wooga.com/about/contact-2/">Directions</a>
 		</p>
 	</div>
 </div>
@@ -39,8 +34,6 @@ Next meeting:
 </script>
 
 # Location
-
-**Please note: on Aug 21st, we meet at Wooga (see above) and *not* at CodeKollektiv!**
 
 Usually we meet at:
 
@@ -70,13 +63,36 @@ Our mailing list is hosted on [Google Groups](http://groups.google.com/group/ber
 
 <div class="row">
 	<div id="talk-survey" class="drop-shadow lifted eightcol">
-		Suggest or vote on the next topic: <a href="http://goo.gl/mod/vaua" title="Participate in the surveys">Participate in the surveys</a>!
+    Are you interested in giving a talk? Send an email to the mailing
+list!
 	</div>
 </div>
 
 ## 2013
 
-* ...
+### August 21 (at Wooga)
+
+**iOS Toolchain at Wooga**<br>
+[Mattes Groeger](http://mattes-groeger.de/) ([@MattesGroeger](https://twitter.com/MattesGroeger))
+
+Mattes talked about the iOS toolchain at [Wooga](http://www.wooga.com),
+showing which tools they use for building, testing and releasing their
+games.
+
+**CBCouchbaseIncrementalStore**<br>
+[Christian Beer](http://chbeer.de) ([@christian_beer](http://www.twitter.com/christian_beer))
+
+Christian talked about his custom NSIncrementalStore implementation that
+uses CouchDB / TouchDB for data storage ([github](https://github.com/chbeer/CBCouchbaseIncrementalStore))
+
+**Underscore + Asterism** ([slides](https://speakerdeck.com/robb/underscore-dot-m-plus-asterism))<br>
+[Robbert Böhnke](http://robb.is) ([@ceterum_censeo](https://twitter.com/ceterum_censeo), [github.com/robb](https://github.com/robb))
+
+Robb talked about functional programming in Objective-C using [Underscore](https://github.com/robb/Underscore.m)
+and [Asterism](https://github.com/robb/Asterism).
+
+### May
+
 * [Chris Eidhof](http://www.eidhof.nl): AppCode
 
 ## 2012
