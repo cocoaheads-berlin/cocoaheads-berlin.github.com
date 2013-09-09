@@ -18,17 +18,21 @@ title: Welcome!
 
 # Next meeting
 
-We meet on **every 3rd Wednesday of the month at 7 pm.**
+        
+### September 18, 7pm (back to CodeKollektiv)
 
-Next meeting:
+####Tentative list of talks:
 
-<div class="row">
-	<div class="drop-shadow lifted fivecol">
-        <span id="next_meetup"></span><br>
-		at 7 pm<br><br/>
-		</p>
-	</div>
-</div>
+**Testing using Specta and Expecta**<br>
+Daniel Barden
+
+**Mocking and Stubbing - Common Use Cases during TDD** <br>
+Ullrich Schäfer
+
+**TBD** <br>
+Adriaan Stellingwerff
+
+
 <script type="text/javascript">
 	next_meetup();
 </script>
@@ -59,7 +63,7 @@ Wanna grab something to eat before the meetup? There is a good pizza/pasta place
 
 Our mailing list is hosted on [Google Groups](http://groups.google.com/group/berlin-cocoaheads?hl=de "Berlin CocoaHeads Mailing List").
 
-# Talks
+#Past Talks
 
 <div class="row">
 	<div id="talk-survey" class="drop-shadow lifted eightcol">
@@ -69,21 +73,6 @@ list!
 </div>
 
 ## 2013
-
-### September 18 (back to CodeKollektiv)
-
-(tentative)
-
-**Testing using Specta and Expecta**<br>
-Daniel Barden
-
-**Mocking and Stubbing - Common Use Cases during TDD** <br>
-Ullrich Schäfer
-
-**TBD** <br>
-Adriaan Stellingwerff
-
-
 
 ### August 21 (at Wooga)
 
@@ -132,18 +121,6 @@ Falko Richter
 Ole Begemann, [oleb.net](http://oleb.net), [@olebegemann](http://twitter.com/olebegemann)
 
 [Slides (PDF)](/assets/cocos2d-ole-begemann-2011-11.pdf)
-
-### October
-
-(no talk)
-
-### September
-
-(no talk)
-
-### August
-
-(no talk)
 
 ### July
 
