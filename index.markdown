@@ -74,7 +74,7 @@ list!
 
 (tentative)
 
-**Specta/Expecta**<br>
+**'Testing using Specta and Expecta**<br>
 Daniel Barden
 
 **Mocking and Stubbing - Common Use Cases during TDD** <br>
