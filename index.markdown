@@ -24,10 +24,10 @@ title: Welcome!
 *List of talks*:
 
 **Testing using Specta and Expecta**<br>
-Daniel Barden
+Daniel Barden – ([@danielbarden](https://twitter.com/danielbarden))
 
 **Mocking and Stubbing - Common Use Cases during TDD** <br>
-[Ullrich Schäfer](ullrichschaefer.com)([@stigi](https://twitter.com/stigi))
+[Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
 
 
 
