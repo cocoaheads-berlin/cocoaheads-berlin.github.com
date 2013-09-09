@@ -21,7 +21,7 @@ title: Welcome!
         
 ### September 18, 7pm (back to CodeKollektiv)
 
-####Tentative list of talks:
+*List of talks*:
 
 **Testing using Specta and Expecta**<br>
 Daniel Barden
@@ -29,8 +29,6 @@ Daniel Barden
 **Mocking and Stubbing - Common Use Cases during TDD** <br>
 Ullrich Schäfer
 
-**TBD** <br>
-Adriaan Stellingwerff
 
 
 <script type="text/javascript">
