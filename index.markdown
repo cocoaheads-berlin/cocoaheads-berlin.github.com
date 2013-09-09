@@ -70,6 +70,21 @@ list!
 
 ## 2013
 
+### September 18 (back to CodeKollektiv)
+
+(tentative)
+
+**Specta/Expecta**<br>
+Daniel Barden
+
+**TBD** <br>
+Ullrich Schäfer
+
+**TBD** <br>
+Adriaan Stellingwerff
+
+
+
 ### August 21 (at Wooga)
 
 **iOS Toolchain at Wooga** ([slides](http://www.slideshare.net/MattesGroeger/slides-woogaios-toolchain))<br>
