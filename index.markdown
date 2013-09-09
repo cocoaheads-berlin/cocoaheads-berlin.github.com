@@ -77,7 +77,7 @@ list!
 **Specta/Expecta**<br>
 Daniel Barden
 
-**TBD** <br>
+**Mocking and Stubbing - Common Use Cases during TDD** <br>
 Ullrich Schäfer
 
 **TBD** <br>
