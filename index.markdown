@@ -27,7 +27,7 @@ title: Welcome!
 Daniel Barden
 
 **Mocking and Stubbing - Common Use Cases during TDD** <br>
-Ullrich Schäfer
+[Ullrich Schäfer](ullrichschaefer.com)([@stigi](https://twitter.com/stigi))
 
 
 
