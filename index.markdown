@@ -19,15 +19,15 @@ title: Welcome!
 # Next meeting
 
         
-### September 18, 7pm (back to CodeKollektiv)
+### October 16, 7pm (CodeKollektiv)
 
 *List of talks*:
 
-**Testing using Specta and Expecta**<br>
-Daniel Barden – ([@danielbarden](https://twitter.com/danielbarden))
+**UIKit Dynamics in iOS 7**<br>
+Michael Ang – ([@mangtronix](https://twitter.com/mangtronix))
 
-**Mocking and Stubbing - Common Use Cases during TDD** <br>
-[Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
+**Custom View Controller Transitions in iOS 7** <br>
+Engin Kurutepe – ([@ekurutepe](https://twitter.com/ekurutepe))
 
 
 
@@ -71,6 +71,14 @@ list!
 </div>
 
 ## 2013
+
+### September 18, 7pm (back to CodeKollektiv)
+
+**Testing using Specta and Expecta**<br>
+Daniel Barden – ([@danielbarden](https://twitter.com/danielbarden))
+
+**Mocking and Stubbing - Common Use Cases during TDD** <br>
+[Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
 
 ### August 21 (at Wooga)
 
