@@ -27,7 +27,7 @@ title: Welcome!
 Michael Ang – ([@mangtronix](https://twitter.com/mangtronix))
 
 **Custom View Controller Transitions in iOS 7** <br>
-Engin Kurutepe – ([@ekurutepe](https://twitter.com/ekurutepe))
+[Engin Kurutepe](http://www.kurutepe.com) – ([@ekurutepe](https://twitter.com/ekurutepe))
 
 
 
