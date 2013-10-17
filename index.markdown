@@ -78,7 +78,7 @@ list!
 **Testing using Specta and Expecta**<br>
 Daniel Barden – ([@danielbarden](https://twitter.com/danielbarden))
 
-**Mocking and Stubbing - Common Use Cases during TDD** <br>
+**Mocking and Stubbing - Common Use Cases during TDD** ([slides](/assets/20130918-Cocoaheads-mocking.pdf))<br>
 [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
 
 ### August 21 (at Wooga)
