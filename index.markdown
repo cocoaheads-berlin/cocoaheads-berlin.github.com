@@ -70,7 +70,7 @@ list!
 
 ### October 16, 7pm (CodeKollektiv)
 
-**Custom View Controller Transitions in iOS 7** <br>
+**Custom View Controller Transitions in iOS 7** ([slides](https://speakerdeck.com/ekurutepe/custom-transitions-in-ios-7-cocoaheads-berlin-talk))<br>
 [Engin Kurutepe](http://www.kurutepe.com) – ([@ekurutepe](https://twitter.com/ekurutepe))
 
 ### September 18, 7pm (back to CodeKollektiv)
