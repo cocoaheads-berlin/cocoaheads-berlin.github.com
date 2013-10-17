@@ -19,16 +19,12 @@ title: Welcome!
 # Next meeting
 
         
-### October 16, 7pm (CodeKollektiv)
+### November 20, 7pm (CodeKollektiv)
 
 *List of talks*:
 
-**UIKit Dynamics in iOS 7**<br>
-Michael Ang – ([@mangtronix](https://twitter.com/mangtronix))
-
-**Custom View Controller Transitions in iOS 7** <br>
-[Engin Kurutepe](http://www.kurutepe.com) – ([@ekurutepe](https://twitter.com/ekurutepe))
-
+- TBA
+- TBA
 
 
 <script type="text/javascript">
@@ -71,6 +67,11 @@ list!
 </div>
 
 ## 2013
+
+### October 16, 7pm (CodeKollektiv)
+
+**Custom View Controller Transitions in iOS 7** <br>
+[Engin Kurutepe](http://www.kurutepe.com) – ([@ekurutepe](https://twitter.com/ekurutepe))
 
 ### September 18, 7pm (back to CodeKollektiv)
 
