@@ -75,7 +75,7 @@ list!
 
 ### September 18, 7pm (back to CodeKollektiv)
 
-**Testing using Specta and Expecta**<br>
+**Testing using Specta and Expecta** ([slides](/assets/20130918-Cocoaheads-Specta.pdf))<br>
 Daniel Barden – ([@danielbarden](https://twitter.com/danielbarden))
 
 **Mocking and Stubbing - Common Use Cases during TDD** ([slides](/assets/20130918-Cocoaheads-mocking.pdf))<br>
