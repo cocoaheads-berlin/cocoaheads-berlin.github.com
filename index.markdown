@@ -23,8 +23,8 @@ title: Welcome!
 
 *List of talks*:
 
-- TBA
-- TBA
+**UIKit Dynamics in iOS 7** <br>
+Michael Ang – ([@mangtronix](https://twitter.com/mangtronix))
 
 
 <script type="text/javascript">
