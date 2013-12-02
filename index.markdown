@@ -19,12 +19,14 @@ title: Welcome!
 # Next meeting
 
         
-### November 20, 7pm (CodeKollektiv)
+### December 11, 7pm Tech Talks Special (Venue: TBA)
+
+[Apple Tech Talks](https://developer.apple.com/tech-talks/) and [Alt Tech Talks](http://www.alt-tech-talks.com) are in town in December. That's why we will meeting a week earlier than our regular meeting schedule and get some drinks with the participants. The location will be close to the Alt Tech Talks venue Babylon.
 
 *List of talks*:
 
-**UIKit Dynamics in iOS 7** <br>
-Michael Ang – ([@mangtronix](https://twitter.com/mangtronix))
+- None planned but please get in touch if you would like to hold a talk.
+
 
 
 <script type="text/javascript">
@@ -67,6 +69,11 @@ list!
 </div>
 
 ## 2013
+
+### November 20th, 7pm (CodeKollektiv)
+
+**UIKit Dynamics in iOS 7** ([slides](/assets/UIKit-Dynamics-CocoaHeads-Mang.pdf))<br>
+Michael Ang – ([@mangtronix](https://twitter.com/mangtronix))
 
 ### October 16, 7pm (CodeKollektiv)
 
