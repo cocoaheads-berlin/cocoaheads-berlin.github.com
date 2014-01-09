@@ -19,15 +19,9 @@ title: Welcome!
 # Next meeting
 
         
-### December 11, 7pm Tech Talks Special (Venue: TBA)
+### Jan 22, 7pm CocoaHeads Special Event: CocoaKucha with Orta Therox (CodeKollektiv)
 
-[Apple Tech Talks](https://developer.apple.com/tech-talks/) and [Alt Tech Talks](http://www.alt-tech-talks.com) are in town in December. That's why we will meeting a week earlier than our regular meeting schedule and get some drinks with the participants. The location will be close to the Alt Tech Talks venue Babylon.
-
-*List of talks*:
-
-- None planned but please get in touch if you would like to hold a talk.
-
-
+This month, we have another special edition of CocoaHeads: [Orta Therox](https://twitter.com/orta) will be organizing a [CocoaKucha](http://blog.cocoapods.org/Cocoa-Kucha-3-Berlin/) evening, where multiple speakers will hold a 20-slides talk in less than  7 minutes each. Orta already has some speakers in mind and will be reaching out to them but if you feel like holding a short talk yourself, please sign up as a speaker by sending a [pull request](https://github.com/CocoaPods/blog.cocoapods.org/pull/8)
 
 <script type="text/javascript">
 	next_meetup();
@@ -69,6 +63,10 @@ list!
 </div>
 
 ## 2013
+
+### December 11, 7pm Tech Talks Special (Venue: TBA)
+
+[Apple Tech Talks](https://developer.apple.com/tech-talks/) and [Alt Tech Talks](http://www.alt-tech-talks.com) are in town in December. That's why we will meeting a week earlier than our regular meeting schedule and get some drinks with the participants at [Blaues Band](http://www.blauesband.com/index_start_1.php)
 
 ### November 20th, 7pm (CodeKollektiv)
 
