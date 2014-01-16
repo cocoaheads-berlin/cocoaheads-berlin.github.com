@@ -89,7 +89,7 @@ Daniel Barden – ([@danielbarden](https://twitter.com/danielbarden))
 ### August 21 (at Wooga)
 
 **iOS Toolchain at Wooga** ([slides](http://www.slideshare.net/MattesGroeger/slides-woogaios-toolchain))<br>
-[Mattes Groeger](http://mattes-groeger.de/) ([@MattesGroeger](https://twitter.com/MattesGroeger))
+[Mattes Groeger](http://blog.mattes-groeger.de/) ([@MattesGroeger](https://twitter.com/MattesGroeger))
 
 Mattes talked about the iOS toolchain at [Wooga](http://www.wooga.com),
 showing which tools they use for building, testing and releasing their
@@ -110,6 +110,7 @@ and [Asterism](https://github.com/robb/Asterism).
 ### May
 
 * [Chris Eidhof](http://www.eidhof.nl): AppCode
+* [Mattes Groeger](http://blog.mattes-groeger.de): CocoaPods and Kiwi
 
 ## 2012
 
