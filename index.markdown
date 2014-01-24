@@ -18,10 +18,12 @@ title: Welcome!
 
 # Next meeting
 
-        
-### Jan 22, 7pm CocoaHeads Special Event: CocoaKucha with Orta Therox (CodeKollektiv)
+### Feb 19th
 
-This month, we have another special edition of CocoaHeads: [Orta Therox](https://twitter.com/orta) will be organizing a [CocoaKucha](http://blog.cocoapods.org/Cocoa-Kucha-3-Berlin/) evening, where multiple speakers will hold a 20-slides talk in less than  7 minutes each. Orta already has some speakers in mind and will be reaching out to them but if you feel like holding a short talk yourself, please sign up as a speaker by sending a [pull request](https://github.com/CocoaPods/blog.cocoapods.org/pull/8)
+Talks to be announced. Please get in touch if you have a suggestion.        
+
+
+
 
 <script type="text/javascript">
 	next_meetup();
@@ -61,6 +63,24 @@ Our mailing list is hosted on [Google Groups](http://groups.google.com/group/ber
 list!
 	</div>
 </div>
+
+## 2014
+
+### Jan 22, 7pm CocoaHeads Special Event: CocoaKucha with Orta Therox
+
+This month, we had another special edition of CocoaHeads: [Orta Therox](https://twitter.com/orta) organized a [CocoaKucha](http://blog.cocoapods.org/Cocoa-Kucha-3-Berlin/) evening, where multiple speakers will hold a 20-slides talk in less than  7 minutes each. Here is the list of presented talks:
+
+- Boris Bügling Boris Bügling - @NeoNacho - Xcode plugins
+- Claudiu-Vlad Ursache Claudiu-Vlad Ursache - @ursachec - About his work on Tor on iOS.
+- Jens Ravens Jens Ravens - @JensRavens - Meteor, Realtime APIs and CoreData
+- Robb Böhnke Robb Böhnke - @ceterum_censeo - What's coming in Mantle 2.0
+- Florian Hanke Florian Hanke - @hanke - CocoaPods Search Engine
+- Chris Eidhof - @chriseidhof - I Have an Idea for an App! (or how to use animated GIFs in slides)
+- Ilja Iwas - @iljawas - objc-run, Objective-C Scripts
+- Orta Therox - @orta - 18ish Things You Didn't Know about CocoaPods
+
+Videos coming soon…
+
 
 ## 2013
 
