@@ -70,17 +70,14 @@ list!
 
 This month, we had another special edition of CocoaHeads: [Orta Therox](https://twitter.com/orta) organized a [CocoaKucha](http://blog.cocoapods.org/Cocoa-Kucha-3-Berlin/) evening, where multiple speakers will hold a 20-slides talk in less than  7 minutes each. Here is the list of presented talks:
 
-- Boris Bügling - [@NeoNacho](https://twitter.com/NeoNacho) - Xcode plugins
-- Claudiu-Vlad Ursache - [@ursachec](https://twitter.com/ursachec) - About his work on Tor on iOS.
-- Jens Ravens - [@JensRavens](https://twitter.com/JensRavens) - Meteor, Realtime APIs and CoreData
-- Robb Böhnke - [@ceterum_censeo](https://twitter.com/ceterum_censeo) - What's coming in Mantle 2.0
-- Florian Hanke - [@hanke](https://twitter.com/hanke) - CocoaPods Search Engine
-- Chris Eidhof - [@chriseidhof](https://twitter.com/chriseidhof) - I Have an Idea for an App! (or how to use animated GIFs in slides)
-- Ilja Iwas - [@iljawas](https://twitter.com/iljawas) - objc-run, Objective-C Scripts
-- Orta Therox - [@orta](https://twitter.com/orta) - 18ish Things You Didn't Know about CocoaPods
-
-Videos coming soon…
-
+- Boris Bügling - [@NeoNacho](https://twitter.com/NeoNacho) - Xcode plugins [[video](https://vimeo.com/85025185)]
+- Claudiu-Vlad Ursache - [@ursachec](https://twitter.com/ursachec) - About his work on Tor on iOS [[video](https://vimeo.com/85025798)]
+- Jens Ravens - [@JensRavens](https://twitter.com/JensRavens) - Meteor, Realtime APIs and CoreData [[video](https://vimeo.com/85026649)]
+- Robb Böhnke - [@ceterum_censeo](https://twitter.com/ceterum_censeo) - What's coming in Mantle 2.0 [[video](https://vimeo.com/85029789)]
+- Florian Hanke - [@hanke](https://twitter.com/hanke) - CocoaPods Search Engine [[video](https://vimeo.com/85027210)]
+- Chris Eidhof - [@chriseidhof](https://twitter.com/chriseidhof) - I Have an Idea for an App! (or how to use animated GIFs in slides) [[video](https://vimeo.com/85028110)]
+- Ilja Iwas - [@iljawas](https://twitter.com/iljawas) - objc-run, Objective-C Scripts [[video](https://vimeo.com/85028436)]
+- Orta Therox - [@orta](https://twitter.com/orta) - 18ish Things You Didn't Know about CocoaPods [[video](https://vimeo.com/85028798)]
 
 ## 2013
 
