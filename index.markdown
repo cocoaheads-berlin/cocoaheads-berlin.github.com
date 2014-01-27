@@ -11,7 +11,7 @@ We are the Berlin chapter of [Cocoaheads](http://www.cocoaheads.org). We meet on
 
 Follow us on Twitter: [@cocoaheads_Ber](https://twitter.com/cocoaheads_BER)
 
-Watch our talks in vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels/cocoaheadsberlin)
+Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels/cocoaheadsberlin)
 
 # Next meeting
 
