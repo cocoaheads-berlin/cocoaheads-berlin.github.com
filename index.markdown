@@ -3,9 +3,9 @@ layout: default
 title: Welcome!
 ---
 
-#Welcome to Berlin CocoaHeads!
-
 ![Cocoaheads Berlin Logo](images/cocoaheads-berlin-logo.png)
+
+#Welcome to Berlin CocoaHeads!
 
 We are the Berlin chapter of [Cocoaheads](http://www.cocoaheads.org). We meet once every month and talk about iOS and OS X development. If you're into Cocoa and in Berlin, come in and say hi.
 
