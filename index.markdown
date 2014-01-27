@@ -3,18 +3,15 @@ layout: default
 title: Welcome!
 ---
 
-<div class="row">
-	<div class="sixcol">
-		<h1 class="title">Welcome to Berlin CocoaHeads!</h1>
-		<p>
-			This is the homepage of the Berlin chapter of <a href="http://www.cocoaheads.org/">CocoaHeads</a>.
-		</p>
-	</div>
-	<div class="sixcol last">
-		<h1><img id="logo" src="images/cocoaheads-berlin-logo.png" alt="Cocoaheads Berlin Logo">
-		</h1>
-	</div>
-</div>
+#Welcome to Berlin CocoaHeads!
+
+![Cocoaheads Berlin Logo](images/cocoaheads-berlin-logo.png)
+
+We are the Berlin chapter of [Cocoaheads](http://www.cocoaheads.org). We meet once every month and talk about iOS and OS X development. If you're into Cocoa and in Berlin, come in and say hi.
+
+Follow us on Twitter: [@cocoaheads_Ber](https://twitter.com/cocoaheads_BER)
+
+Watch our talks in vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels/cocoaheadsberlin)
 
 # Next meeting
 
