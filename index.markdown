@@ -13,13 +13,18 @@ Follow us on Twitter: [@cocoaheads_Ber](https://twitter.com/cocoaheads_BER)
 
 Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels/cocoaheadsberlin)
 
-# Next meeting
+# Next meetings
 
 ### Feb 19th
 
-Talks to be announced. Please get in touch if you have a suggestion.        
+**Building nxtbgthng** - Gernot Poetsch ([@Gernot](https://twitter.com/gernot))
 
 
+### Mar 19th
+
+Special Event – File a Radar 
+
+We will be filing Radars about iOS and OS X issues that bother us. The submitter of the most interesting/important Radar as voted by the audience will win a free license for [Reveal.app](http://revealapp.com) sponsored by [Itty Bitty Apps](http://www.ittybittyapps.com).
 
 
 <script type="text/javascript">
