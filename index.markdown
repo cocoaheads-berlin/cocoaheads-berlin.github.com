@@ -22,9 +22,9 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 
 ### Mar 19th
 
-Special Event – File a Radar 
+**Special Event – File a Radar**
 
-We will be filing Radars about iOS and OS X issues that bother us. The submitter of the most interesting/important Radar as voted by the audience will win a free license for [Reveal.app](http://revealapp.com) sponsored by [Itty Bitty Apps](http://www.ittybittyapps.com).
+We will be [filing Radars](https://bugreport.apple.com) about iOS and OS X issues that bother us. The submitter of the most interesting/important Radar as voted by the audience will win a free license for [Reveal.app](http://revealapp.com) sponsored by [Itty Bitty Apps](http://www.ittybittyapps.com).
 
 
 <script type="text/javascript">
