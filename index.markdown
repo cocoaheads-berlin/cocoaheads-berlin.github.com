@@ -19,8 +19,12 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 
 **Building nxtbgthng** - Gernot Poetsch ([@Gernot](https://twitter.com/gernot))
 
+**Objective-Smalltalk for the CocoaHead** – Marcel Weiher
+
 
 ### Mar 19th
+
+**The best of both worlds: Introducing JavaScriptCore** – [Joshua May](http://www.notjosh.com) ([@notjosh](https://twitter.com/notjosh))
 
 **Special Event – File a Radar**
 
