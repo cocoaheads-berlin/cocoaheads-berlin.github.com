@@ -19,7 +19,7 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 
 **Building nxtbgthng** - Gernot Poetsch ([@Gernot](https://twitter.com/gernot))
 
-**Objective-Smalltalk for the CocoaHead** – Marcel Weiher
+**Objective-Smalltalk for the CocoaHead** – [Marcel Weiher](http://objective.st)([@mpweiher](https://twitter.com/mpweiher))
 
 
 ### Mar 19th
