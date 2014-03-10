@@ -15,13 +15,6 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 
 # Next meetings
 
-### Feb 19th
-
-**Building nxtbgthng** - Gernot Poetsch ([@Gernot](https://twitter.com/gernot))
-
-**Objective-Smalltalk for the CocoaHead** – [Marcel Weiher](http://objective.st)([@mpweiher](https://twitter.com/mpweiher))
-
-
 ### Mar 19th
 
 **The best of both worlds: Introducing JavaScriptCore** – [Joshua May](http://www.notjosh.com) ([@notjosh](https://twitter.com/notjosh))
@@ -29,6 +22,12 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 **Special Event – File a Radar**
 
 We will be [filing Radars](https://bugreport.apple.com) about iOS and OS X issues that bother us. The submitter of the most interesting/important Radar as voted by the audience will win a free license for [Reveal.app](http://revealapp.com) sponsored by [Itty Bitty Apps](http://www.ittybittyapps.com).
+
+### Apr 16th
+
+**MVVM + RAC = <3 or Model-View-ViewModel with ReactiveCocoa** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
+
+**[Visit from CocoaHeads Hamburg – Talk title to be announced]** - Piet Brauer ([@pietbrauer](https://twitter.com/pietbrauer)) & Vidu Pirathaparajah ([@vimacs](https://twitter.com/vimacs))
 
 
 <script type="text/javascript">
@@ -71,6 +70,12 @@ list!
 </div>
 
 ## 2014
+
+### Feb 19th
+
+**Building nxtbgthng** - Gernot Poetsch ([@Gernot](https://twitter.com/gernot))
+
+**Objective-Smalltalk for the CocoaHead** – [Marcel Weiher](http://objective.st)([@mpweiher](https://twitter.com/mpweiher))
 
 ### Jan 22, 7pm CocoaHeads Special Event: CocoaKucha with Orta Therox
 
