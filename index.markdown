@@ -25,13 +25,13 @@ We will be [filing Radars](https://bugreport.apple.com) about iOS and OS X issue
 
 ### Apr 16th
 
-**Building Forms with Ulrich Part 1: MVVM + RAC = <3 or Model-View-ViewModel with ReactiveCocoa** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
+**Building Forms with Ullrich Part 1: MVVM + RAC = <3 or Model-View-ViewModel with ReactiveCocoa** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
 
 **[Visit from CocoaHeads Hamburg – Talk title to be announced]** - Piet Brauer ([@pietbrauer](https://twitter.com/pietbrauer)) & Vidu Pirathaparajah ([@vimacs](https://twitter.com/vimacs))
 
 ### May 21st
 
-**Building Forms with Ulrich Part 2: Key Value Validation** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
+**Building Forms with Ullrich Part 2: Key Value Validation** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
 
 <script type="text/javascript">
 	next_meetup();
