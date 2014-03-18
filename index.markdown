@@ -19,6 +19,8 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 
 **The best of both worlds: Introducing JavaScriptCore** – [Joshua May](http://www.notjosh.com) ([@notjosh](https://twitter.com/notjosh))
 
+**Cocos2D vs. SpriteKit, a performance showdown** – Maxim Zaks ([@iceX33](https://twitter.com/icex33))
+
 **Special Event – File a Radar**
 
 We will be [filing Radars](https://bugreport.apple.com) about iOS and OS X issues that bother us. The submitter of the most interesting/important Radar as voted by the audience will win a free license for [Reveal.app](http://revealapp.com) sponsored by [Itty Bitty Apps](http://www.ittybittyapps.com).
