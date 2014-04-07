@@ -15,21 +15,13 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 
 # Next meetings
 
-### Mar 19th
 
-**The best of both worlds: Introducing JavaScriptCore** – [Joshua May](http://www.notjosh.com) ([@notjosh](https://twitter.com/notjosh))
-
-**Cocos2D vs. SpriteKit, a performance showdown** – Maxim Zaks ([@iceX33](https://twitter.com/icex33))
-
-**Special Event – File a Radar**
-
-We will be [filing Radars](https://bugreport.apple.com) about iOS and OS X issues that bother us. The submitter of the most interesting/important Radar as voted by the audience will win a free license for [Reveal.app](http://revealapp.com) sponsored by [Itty Bitty Apps](http://www.ittybittyapps.com).
 
 ### Apr 16th
 
 **Building Forms with Ullrich Part 1: MVVM + RAC = <3 or Model-View-ViewModel with ReactiveCocoa** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
 
-**[Visit from CocoaHeads Hamburg – Talk title to be announced]** - Piet Brauer ([@pietbrauer](https://twitter.com/pietbrauer)) & Vidu Pirathaparajah ([@vimacs](https://twitter.com/vimacs))
+**Scaling iOS Development** - Piet Brauer ([@pietbrauer](https://twitter.com/pietbrauer)) & Vidu Pirathaparajah ([@vimacs](https://twitter.com/vimacs)) - [A Visit by [CocoaHeads Hamburg](https://twitter.com/cocoaheads_hh)] 
 
 ### May 21st
 
@@ -75,6 +67,16 @@ list!
 </div>
 
 ## 2014
+
+### Mar 19th
+
+**The best of both worlds: Introducing JavaScriptCore** – [Joshua May](http://www.notjosh.com) ([@notjosh](https://twitter.com/notjosh))
+
+**Cocos2D vs. SpriteKit, a performance showdown** – Maxim Zaks ([@iceX33](https://twitter.com/icex33))
+
+**Special Event – File a Radar**
+
+We will be [filing Radars](https://bugreport.apple.com) about iOS and OS X issues that bother us. The submitter of the most interesting/important Radar as voted by the audience will win a free license for [Reveal.app](http://revealapp.com) sponsored by [Itty Bitty Apps](http://www.ittybittyapps.com).
 
 ### Feb 19th
 
