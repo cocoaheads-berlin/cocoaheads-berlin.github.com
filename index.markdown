@@ -23,6 +23,8 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 
 **Scaling iOS Development** - Piet Brauer ([@pietbrauer](https://twitter.com/pietbrauer)) & Vidu Pirathaparajah ([@vimacs](https://twitter.com/vimacs)) - [A Visit by [CocoaHeads Hamburg](https://twitter.com/cocoaheads_hh)] 
 
+**[Panono Ball Camera](http://www.panono.com)** - Björn Bollensdorff 
+
 ### May 21st
 
 **Building Forms with Ullrich Part 2: Key Value Validation** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
