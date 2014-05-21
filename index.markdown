@@ -62,6 +62,18 @@ Wanna grab something to eat before the meetup? There is a good pizza/pasta place
 
 Our mailing list is hosted on [Google Groups](http://groups.google.com/group/berlin-cocoaheads?hl=de "Berlin CocoaHeads Mailing List").
 
+# Code of Conduct
+
+All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Team members will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+
+*tl;dr: Don’t be a Jerk*
+
+Our meetup is dedicated to providing a harassment-free experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any parts of our events, including talks, workshops, Twitter and other online media. Attendees violating these rules may be sanctioned or expelled from this meetup and/or any future meetups at the discretion of the usergroup organisers.
+
+## Need Help?
+
+Send us an [e-mail](mailto:boris@buegling.com).
+
 #Past Talks
 
 <div class="row">
@@ -77,9 +89,9 @@ list!
 
 **Building Forms with Ullrich Part 1: MVVM + RAC = <3 or Model-View-ViewModel with ReactiveCocoa** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
 
-**Scaling iOS Development** - Piet Brauer ([@pietbrauer](https://twitter.com/pietbrauer)) & Vidu Pirathaparajah ([@vimacs](https://twitter.com/vimacs)) - [A Visit by [CocoaHeads Hamburg](https://twitter.com/cocoaheads_hh)] 
+**Scaling iOS Development** - Piet Brauer ([@pietbrauer](https://twitter.com/pietbrauer)) & Vidu Pirathaparajah ([@vimacs](https://twitter.com/vimacs)) - [A Visit by [CocoaHeads Hamburg](https://twitter.com/cocoaheads_hh)]
 
-**[Panono Ball Camera](http://www.panono.com)** - Björn Bollensdorff 
+**[Panono Ball Camera](http://www.panono.com)** - Björn Bollensdorff
 
 
 ### Mar 19th
