@@ -13,6 +13,8 @@ Follow us on Twitter: [@cocoaheads_Ber](https://twitter.com/cocoaheads_BER)
 
 Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels/cocoaheadsberlin)
 
+We're also on [Meetup](http://www.meetup.com/Cocoaheads-Berlin/)
+
 # Next meetings
 
 
@@ -189,4 +191,4 @@ Halle Winkler, [politepix.com](http://www.politepix.com), [@politepix](http://tw
 
 # CocoaHeads Berlin Members
 
-To be created: a list of CocoaHeads Berlin members links to websites, Twitter, etc.
+The list of our members is on our Meetup [page](http://www.meetup.com/Cocoaheads-Berlin/members/)
