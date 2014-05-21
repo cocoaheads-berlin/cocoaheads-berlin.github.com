@@ -21,6 +21,8 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 
 **Introduction to [Hood.ie](http://hood.ie) for your iOS app** - Katrin Apel – ([@kaalita](https://twitter.com/kaalita))
 
+**Lighter View Controllers** – Chris Eidhof – ([@chriseidhof](https://twitter.com/chriseidhof))
+
 ###Jun18th
 
 **Building Forms with Ullrich Part 2: Key Value Validation** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
