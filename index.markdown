@@ -19,15 +19,25 @@ We're also on [Meetup](http://www.meetup.com/Cocoaheads-Berlin/)
 
 
 
-###May 21st
 
-**Introduction to [Hood.ie](http://hood.ie) for your iOS app** - Katrin Apel – ([@kaalita](https://twitter.com/kaalita))
+###Jun18th, 19:00– CocoaHeads on the Road part.2
 
-**Lighter View Controllers** – Chris Eidhof – ([@chriseidhof](https://twitter.com/chriseidhof))
+This meetup will take places at [Futurice](http://futurice.de), Schützenstraße 6, 10117 Berlin. They will be providing free drinks and pizza in addition to the location!
 
-###Jun18th
 
 **Building Forms with Ullrich Part 2: Key Value Validation** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
+
+**Promise of an API** – Maxim Zaks – [@iceX33](https://twitter.com/iceX33)
+
+**AppCode License giveaway:**
+  
+- Submit radar bug reports until 17.06.2014 23:59 CET and send the openradar links for your bug reports to [Engin](mailto:ekurutepe@gmail.com)
+
+- The three lucky winners for an AppCode license each will be determined randomly during the meetup. 
+
+- One bug report, one entry, file more radars to increase your chance.
+
+Thanks a lot to JetBrainz for the AppCode licenses and thanks a lot to Futurice for sponsoring the location.
 
 <script type="text/javascript">
 	next_meetup();
@@ -86,6 +96,13 @@ list!
 </div>
 
 ## 2014
+
+
+###May 21st
+
+**Introduction to [Hood.ie](http://hood.ie) for your iOS app** - Katrin Apel – ([@kaalita](https://twitter.com/kaalita))
+
+**Lighter View Controllers** – Chris Eidhof – ([@chriseidhof](https://twitter.com/chriseidhof))
 
 ### Apr 16th
 
