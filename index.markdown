@@ -25,7 +25,7 @@ Just grill and chill and mingle with fellow Cocoa (and Swift) developers.
 
 There is going to be some beer. Feel free to bring whatever else you would like to drink and put on the grill. We're also planning to do a trip to a nearby supermarket at 19:00, you can join too if you need to get some supplies. 
 
-Please RSVP here: http://www.meetup.com/Cocoaheads-Berlin/events/184521322/
+Please RSVP [here](http://www.meetup.com/Cocoaheads-Berlin/events/184521322/)
 
 
 
