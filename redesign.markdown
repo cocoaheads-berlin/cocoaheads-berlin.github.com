@@ -11,7 +11,7 @@ Here are the rules:
 
 - Design a new CocoaHeads Berlin website where visitors can reach the following: our meetups, a news/updates section and our videos.
 - Feel free to work in teams but if you win, you get ticket to share among the team…
-- Submit your design (preferably with live-preview) until October 31st 2014 to me: ekurutepe@gmail.com. 
+- Submit your design (preferably with live-preview) until October 31st 2014 to ekurutepe@gmail.com. 
 - All submissions will be opened to public vote for a week. 
 - After the end of the voting week, the design with most votes wins and the creator(s) get(s) one free ticket to MCE 2015
 
