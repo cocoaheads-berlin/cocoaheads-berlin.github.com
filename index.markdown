@@ -15,18 +15,16 @@ Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels
 
 We're also on [Meetup](http://www.meetup.com/Cocoaheads-Berlin/)
 
+#[Website Re-Design Competition](redesign.html)
+
 # Next meetings
 
-###Aug 20th, 19:00 – CocoaHeads BBQ
+### Oct 15th, 2014 
 
-We're holding a BBQ-party! 
+- iOS Accessibility  – Robb Böhnke – [@ceterum_censeo](https://twitter.com/ceterum_censeo)
+- A second talk? – Maybe you? – please get in touch
 
-Just grill and chill and mingle with fellow Cocoa (and Swift) developers.  
-
-There is going to be some beer. Feel free to bring whatever else you would like to drink and put on the grill. We're also planning to do a trip to a nearby supermarket at 19:00, you can join too if you need to get some supplies. 
-
-Please RSVP [here](http://www.meetup.com/Cocoaheads-Berlin/events/184521322/)
-
+### Nov 19th, 2014
 
 
 <script type="text/javascript">
@@ -86,6 +84,19 @@ list!
 </div>
 
 ## 2014
+
+### Sep 16h, 19:00 - CodeKollektiv
+
+- Introduction to BDD – Paweł Dudek – [@eldudi](https://twitter.com/eldudi)
+- Partnership with MCE 2015: CocoaHeads members get 20% off 
+- Drinks sponsored by [Blloon](http://blloon.com)
+
+###Aug 20th, 19:00 – CocoaHeads BBQ
+
+We're holding a BBQ-party! 
+
+Just grill and chill and mingle with fellow Cocoa (and Swift) developers. Food and drinks sponsored by [HockeyApp](http://www.hockeyapp.net).
+
 
 ###Jul 16th
 
