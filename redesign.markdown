@@ -7,7 +7,7 @@ title: CocoaHeads Berlin Website Re-design Competition
 
 #CocoaHeads Berlin Website Re-design Competition
 
-We are the Berlin chapter of [Cocoaheads](http://www.cocoaheads.org). We meet once every month and talk about iOS and OS X development and our [current website](http://cocoaheads-berlin.org) is in need of a redesign. That's why we are organizing this competition and give you a chance to win a ticket to [Mobile Central Europe 2015](http://mceconf.com)
+We are the Berlin chapter of [Cocoaheads](http://www.cocoaheads.org). We meet once every month and talk about iOS and OS X development and our [current website](http://cocoaheads-berlin.org) is in need of a redesign. That's why we are organizing this competition and give you a chance to win a ticket to [Mobile Central Europe 2015](http://mceconf.com), in addition to fame, fortune and our everlasting gratitude… 
 
 Here are the rules:
 
