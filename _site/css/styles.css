@@ -1,17 +1,34 @@
-/* @override http://localhost:4000/css/styles.css */
+/* @override http://0.0.0.0:4000/css/styles.css
+@override http://localhost:4000/css/styles.css */
 
 body {
-	font-family: 'Palatino', 'EB Garamond', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	line-height: 1.3em;
-	background: #DDD url(../images/whitey.png) repeat top left;
+	background: #fff;
 	color: #333;
+	margin-top: 40px;
+}
+
+#header-banner {
+}
+
+#logo-image {
+	margin: auto;
+}
+
+#logo {
+	background: transparent url(../images/cocoaheads-berlin-logo-new.png) no-repeat top left;
+	width: 500px;
+	height: 290px;
 }
 
 h1, h2, h3 {
 	margin-top: 1em;
 	margin-bottom: 0.5em;
-	font-family: 'Droid Sans', sans-serif;
+	/*font-family: 'Cuprum', sans-serif;*/
+	font-weight:800;
+	text-transform: uppercase;
 	line-height: 1em;
 	text-shadow: 0 2px 0 rgba(255,255,255,0);
 }
@@ -35,7 +52,88 @@ p {
 	text-align: right;
 }
 
-#logo {
+#social-buttons {
+	text-align: center;
+}
+
+#social-buttons a {
+	border: 2px solid #FF8C00;
+	background-image: url(../images/social-icons.png);
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 100px;
+	color: #FF8C00;
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	font-weight:800;
+	font-size: 0.7em;
+	display: inline-block;
+	margin: 4px;
+	padding: 8px;
+	padding-top: 70px;
+	position: relative;
+	text-align: center;
+}
+
+#social-buttons .twitter {
+	background-position: 8px 0;
+}
+
+#social-buttons .vimeo {
+	background-position: -250px 0;
+}
+
+#social-buttons .google {
+	background-position: -120px 0;
+}
+
+h2.meeting {
+	padding: 8px;
+	background: #eee;
+}
+
+h2.meeting.upcoming { 
+	background-color: #FF8C00;
+	color: #fff;
+}
+
+a.bvg {
+  font-size: smaller;
+  color: white;
+  margin: 0;
+  padding: 2px 4px;
+  text-decoration: none;
+}
+a.bvg:hover {
+  color:black;
+}
+a.u1 {background-color:#7DAD4C;}
+a.u6 {background-color:#8C6DAB;}
+a.u7 {background-color:#528DBA;}
+a.bus {
+  background-color:#95276E;
+}
+a.metrobus {
+  color:black;
+}
+span.metrobus {
+  color: white;
+  background-color: #F3791D;
+  margin-right: 2px;
+  padding-left: 0.38em;
+  font-size: smaller;
+  font-style: italic;
+  width: 1.6em;
+  height: 1.6em;
+  border-radius: 0.8em;
+  display: inline-block;
+}
+
+.footer {
+	margin-top: 3em;
+	font-size: 0.9em;
+	color: #999;
 }
 
 /*font-family: 'Carter One', sans-serif;*/
