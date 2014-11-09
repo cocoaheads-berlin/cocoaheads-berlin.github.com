@@ -22,21 +22,19 @@ If you're into Cocoa and in Berlin, come by and say Hi!
 
 We're also on [Meetup](http://www.meetup.com/Cocoaheads-Berlin/).
 
-#[Website Re-Design Competition](redesign.html)
-
 # Next meeting
 
 <div id="talk-survey" class="drop-shadow lifted">
     Are you interested in giving a talk? Send an email to <a href="https://secure.meetup.com/messages/?new_convo=true&name=Engin+Kurutepe&member_id=40052552">Engin</a>!
 </div>
 
-<h2 class="meeting upcoming">November 19th, 7 pm</h2>
+<h2 class="meeting upcoming">November 19th, 7 pm @ Wooga Auditorium</h2>
 
 Anton Makeev from the AppCode team will talk about how AppCode saves time for many daily tasks such as refactoring and writing tests.
 
-We're planning to hold this in a workshop fashion. So please install AppCode 3 if you'd like to follow Anton's examples hands-on.
+This meetup is going to be in a workshop fashion. Please install AppCode 3 if you'd like to follow Anton's examples hands-on.
 
-Please RSVP as soon as you can so that we can arrange a larger venue if necessary…
+
 
 <a href="http://www.meetup.com/Cocoaheads-Berlin/events/210241212/" data-event="210241212" class="mu-rsvp-btn">RSVP</a>
 
