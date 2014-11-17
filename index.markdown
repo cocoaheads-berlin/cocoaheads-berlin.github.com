@@ -101,6 +101,6 @@ Organzier: <a href="http://www.meetup.com/Cocoaheads-Berlin/members/40052552/">E
 
 A list of our members can be found on our [Meetup page](http://www.meetup.com/Cocoaheads-Berlin/members).
 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://secure.meetup.com/script/577045002335750872971/api/mu.btns.js?id=e86vdovoa31jc95o0qnfdhc6ql";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://secure.meetup.com/script/577045002335750872971/api/mu.btns.js?id=d8gmi7g0lpfphds73fejqnauo4";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
 <p class="footer">CocoaHeads Berlin Logo and Website designed by Reiner Pittinger.</p>
