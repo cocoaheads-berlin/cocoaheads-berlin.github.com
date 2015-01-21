@@ -24,10 +24,22 @@ We're also on [Meetup](http://www.meetup.com/Cocoaheads-Berlin/).
 
 # Next Meeting
 
-<h2 class="meeting upcoming">Dec 17th, 2014</h2>
+<h2 class="meeting upcoming">Jan 21st, 2015, 7pm @ GetYourGuide Deutschland GmbH</h2>
 
-- Objective-C is far from dead: improving quality of code by leveraging less known features of Objective-C and LLVM - Krzysztof Zabłocki - [@merowing_](https://twitter.com/merowing_) 
-- Xcode Plugins - Jarek Pendowski - [@iloveshw](https://twitter.com/iloveshw)
+**Location**
+
+<address><a href="http://maps.google.com/maps?f=q&hl=en&q=+Erich-Weinert-Straße+145%2C+10409+Berlin%2C+de">GetYourGuide Deutschland GmbH</a><br/>
+Erich-Weinert-Straße 145, 4th floor<br/>
+10409 Berlin<br/>
+</address>
+(<a href="http://maps.google.com/maps?f=q&hl=en&q=+Erich-Weinert-Straße+145%2C+10409+Berlin%2C+de">map</a>)
+
+**Talks**
+
+* Alex Denisov: Clang Compilation Process
+* Marcio Klepacz: How we integrate & deploy Mobile Apps with Travis CI
+
+Free pizza and beer courtesy of GetYourGuide. Due to location constraints participation is limited to 60. So hurry up and RSVP before all seats are gone…
 
 <a href="http://www.meetup.com/Cocoaheads-Berlin/events/216092912/" data-event="216092912" class="mu-rsvp-btn">RSVP</a>
 
@@ -36,6 +48,11 @@ We're also on [Meetup](http://www.meetup.com/Cocoaheads-Berlin/).
 </div>
 
 # Recent Meetings
+
+<h2 class="meeting">Dec 17th, 2014</h2>
+
+- Objective-C is far from dead: improving quality of code by leveraging less known features of Objective-C and LLVM - Krzysztof Zabłocki - [@merowing_](https://twitter.com/merowing_) 
+- Xcode Plugins - Jarek Pendowski - [@iloveshw](https://twitter.com/iloveshw)
 
 <h2 class="meeting">November 19th, 7 pm @ Wooga Auditorium</h2>
 
