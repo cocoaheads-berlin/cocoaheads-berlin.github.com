@@ -24,22 +24,11 @@ We're also on [Meetup](http://www.meetup.com/Cocoaheads-Berlin/).
 
 # Next Meeting
 
-<h2 class="meeting upcoming">Jan 21st, 2015, 7pm @ GetYourGuide Deutschland GmbH</h2>
-
-**Location**
-
-<address><a href="http://maps.google.com/maps?f=q&hl=en&q=+Erich-Weinert-Straße+145%2C+10409+Berlin%2C+de">GetYourGuide Deutschland GmbH</a><br/>
-Erich-Weinert-Straße 145, 4th floor<br/>
-10409 Berlin<br/>
-</address>
-(<a href="http://maps.google.com/maps?f=q&hl=en&q=+Erich-Weinert-Straße+145%2C+10409+Berlin%2C+de">map</a>)
+<h2 class="meeting upcoming">May 17th, 2015</h2>
 
 **Talks**
 
-* Alex Denisov: Clang Compilation Process
-* Marcio Klepacz: How we integrate & deploy Mobile Apps with Travis CI
-
-Free pizza and beer courtesy of GetYourGuide. Due to location constraints participation is limited to 60. So hurry up and RSVP before all seats are gone…
+- TBA
 
 <a href="http://www.meetup.com/Cocoaheads-Berlin/events/216092912/" data-event="216092912" class="mu-rsvp-btn">RSVP</a>
 
@@ -49,32 +38,29 @@ Free pizza and beer courtesy of GetYourGuide. Due to location constraints partic
 
 # Recent Meetings
 
-<h2 class="meeting">Dec 17th, 2014</h2>
+<h2 class="meeting">Apr 15th, 2015</h2>
 
-- Objective-C is far from dead: improving quality of code by leveraging less known features of Objective-C and LLVM - Krzysztof Zabłocki - [@merowing_](https://twitter.com/merowing_) 
-- Xcode Plugins - Jarek Pendowski - [@iloveshw](https://twitter.com/iloveshw)
+* Real-time Audio Using Swift – [Ariel Elkin](http://arielelkin.github.io/)
+* Practical WatchKit Development – [Claus Höfele](https://twitter.com/claushoefele)
+* Thanks to [Wire](https://www.wire.com/) for sponsoring drinks and pizza!
 
-<h2 class="meeting">November 19th, 7 pm @ Wooga Auditorium</h2>
+<h2 class="meeting">March 18th, 2015</h2>
 
-Anton Makeev from the AppCode team will talk about how AppCode saves time for many daily tasks such as refactoring and writing tests.
+* CloudKit with Swift – Jens Ravens – [@jensravens](https://twitter.com/jensravens)
 
-This meetup is going to be in a workshop fashion. Please install AppCode 3 if you'd like to follow Anton's examples hands-on.
+<h2 class="meeting">Feb 18th, 2015</h2>
 
+* [Efficient localisation: 3 tools to accelerate the global growth of your iOS app](http://coderstand.me/2015/02/18/Efficient-Localisation/localisation.pdf) – Edgar Neto and Martin Deville
 
-<h2 class="meeting">Oct 15th, 2014</h2>
+* [Higher Order Messaging](https://www.dropbox.com/s/nghn2754nwinych/HOM-2015.pdf?dl=0) ([Files](http://www.metaobject.com/downloads/Objective-C/HOM.zip)) – Marcel Weiher
 
-- iOS Accessibility – Robb Böhnke – [@ceterum_censeo](https://twitter.com/ceterum_censeo)
-- BloodMagic: custom property attributes for Obj-C – Alex Denisov – [@1101_debian](https://twitter.com/1101_debian)
+<h2 class="meeting">Jan 21st, 2015, 7pm @ GetYourGuide Deutschland GmbH</h2>
 
-<h2 class="meeting">Sep 16h, 2014</h2>
+* [Alex Denisov](https://github.com/AlexDenisov): [Clang Compilation Process](https://speakerdeck.com/alexdenisov/compilation-process)
+* [Marcio Klepacz](https://github.com/marciok): How we integrate & deploy Mobile Apps with Travis CI
+* Thanks to GetYourGuide for the free pizza and beer 
 
-- Introduction to BDD – Paweł Dudek – [@eldudi](https://twitter.com/eldudi)
-- Partnership with MCE 2015: CocoaHeads members get 20% off 
-- Drinks sponsored by [Blloon](http://blloon.com)
-
-
-
-More past talks can be found in the [archive](archive.html).
+More past talks can be found in the [archive](talks-archive.html).
 
 # Location
 

@@ -3,27 +3,51 @@ layout: default
 title: Talks Archive
 ---
 
+# Talks Archive
+
 ## 2014
 
-# August
+### Dec 17th, 2014
+
+- Objective-C is far from dead: improving quality of code by leveraging less known features of Objective-C and LLVM - Krzysztof Zabłocki - [@merowing_](https://twitter.com/merowing_) 
+- Xcode Plugins - Jarek Pendowski - [@iloveshw](https://twitter.com/iloveshw)
+
+### November 19th, 7 pm @ Wooga Auditorium
+
+Anton Makeev from the AppCode team will talk about how AppCode saves time for many daily tasks such as refactoring and writing tests.
+
+This meetup is going to be in a workshop fashion. Please install AppCode 3 if you'd like to follow Anton's examples hands-on.
+
+
+### Oct 15th, 2014
+
+- iOS Accessibility – Robb Böhnke – [@ceterum_censeo](https://twitter.com/ceterum_censeo)
+- BloodMagic: custom property attributes for Obj-C – Alex Denisov – [@1101_debian](https://twitter.com/1101_debian)
+
+### Sep 16h, 2014
+
+- Introduction to BDD – Paweł Dudek – [@eldudi](https://twitter.com/eldudi)
+- Partnership with MCE 2015: CocoaHeads members get 20% off 
+- Drinks sponsored by [Blloon](http://blloon.com)
+
+### August
 
 We're holding a BBQ-party! 
 
 Just grill and chill and mingle with fellow Cocoa (and Swift) developers. Food and drinks sponsored by [HockeyApp](http://www.hockeyapp.net).
 
 
-###Jul 16th
+### Jul 16th
 
-**CocoaPods Plugins** – Boris Bügling - [@NeoNacho](https://twitter.com/NeoNacho) - ([Slides](https://speakerdeck.com/neonichu/cocoapods-plugins))
+* CocoaPods Plugins – Boris Bügling - [@NeoNacho](https://twitter.com/NeoNacho) - ([Slides](https://speakerdeck.com/neonichu/cocoapods-plugins))
 
-###Jun 18th CocoaHeads on the Road part.2
+### Jun 18th CocoaHeads on the Road part.2
 
 This meetup will take places at [Futurice](http://futurice.de), Schützenstraße 6, 10117 Berlin. They will be providing free drinks and pizza in addition to the location!
 
 
-**Building Forms with Ullrich Part 2: Key Value Validation** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
-
-**Promise of an API** – Maxim Zaks – [@iceX33](https://twitter.com/iceX33)
+* Building Forms with Ullrich Part 2: Key Value Validation - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
+* Promise of an API – Maxim Zaks – [@iceX33](https://twitter.com/iceX33)
 
 **AppCode License giveaway:**
   
@@ -37,24 +61,21 @@ Thanks a lot to JetBrainz for the AppCode licenses and thanks a lot to Futurice 
 
 ###May 21st
 
-**Introduction to [Hood.ie](http://hood.ie) for your iOS app** - Katrin Apel – ([@kaalita](https://twitter.com/kaalita))
-
-**Lighter View Controllers** – Chris Eidhof – ([@chriseidhof](https://twitter.com/chriseidhof))
+* Introduction to [Hood.ie](http://hood.ie) for your iOS app - Katrin Apel – ([@kaalita](https://twitter.com/kaalita))
+* Lighter View Controllers – Chris Eidhof – ([@chriseidhof](https://twitter.com/chriseidhof))
 
 ### Apr 16th
 
-**Building Forms with Ullrich Part 1: MVVM + RAC = <3 or Model-View-ViewModel with ReactiveCocoa** - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
+* Building Forms with Ullrich Part 1: MVVM + RAC = <3 or Model-View-ViewModel with ReactiveCocoa - [Ullrich Schäfer](ullrichschaefer.com) – ([@stigi](https://twitter.com/stigi))
+* Scaling iOS Development - Piet Brauer ([@pietbrauer](https://twitter.com/pietbrauer)) & Vidu Pirathaparajah ([@vimacs](https://twitter.com/vimacs)) - [A Visit by [CocoaHeads Hamburg](https://twitter.com/cocoaheads_hh)]
 
-**Scaling iOS Development** - Piet Brauer ([@pietbrauer](https://twitter.com/pietbrauer)) & Vidu Pirathaparajah ([@vimacs](https://twitter.com/vimacs)) - [A Visit by [CocoaHeads Hamburg](https://twitter.com/cocoaheads_hh)]
-
-**[Panono Ball Camera](http://www.panono.com)** - Björn Bollensdorff
+* [Panono Ball Camera](http://www.panono.com) - Björn Bollensdorff
 
 
 ### Mar 19th
 
-**The best of both worlds: Introducing JavaScriptCore** – [Joshua May](http://www.notjosh.com) ([@notjosh](https://twitter.com/notjosh))
-
-**Cocos2D vs. SpriteKit, a performance showdown** – Maxim Zaks ([@iceX33](https://twitter.com/icex33))
+* The best of both worlds: Introducing JavaScriptCore** – [Joshua May](http://www.notjosh.com) ([@notjosh](https://twitter.com/notjosh))
+*Cocos2D vs. SpriteKit, a performance showdown – Maxim Zaks ([@iceX33](https://twitter.com/icex33))
 
 **Special Event – File a Radar**
 
@@ -62,9 +83,8 @@ We will be [filing Radars](https://bugreport.apple.com) about iOS and OS X issue
 
 ### Feb 19th
 
-**Building nxtbgthng** - Gernot Poetsch ([@Gernot](https://twitter.com/gernot))
-
-**Objective-Smalltalk for the CocoaHead** – [Marcel Weiher](http://objective.st)([@mpweiher](https://twitter.com/mpweiher))
+* Building nxtbgthng - Gernot Poetsch ([@Gernot](https://twitter.com/gernot))
+* Objective-Smalltalk for the CocoaHead – [Marcel Weiher](http://objective.st)([@mpweiher](https://twitter.com/mpweiher))
 
 ### Jan 22, 7pm CocoaHeads Special Event: CocoaKucha with Orta Therox
 
