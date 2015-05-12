@@ -22,26 +22,41 @@ If you're into Cocoa and in Berlin, come by and say Hi!
 
 We're also on [Meetup](http://www.meetup.com/Cocoaheads-Berlin/).
 
+<div id="talk-survey" class="drop-shadow lifted">
+    Are you interested in giving a talk? Get in touch with <a href="#team">the team</a>!
+</div>
+
 # Next Meeting
 
-<h2 class="meeting upcoming">May 17th, 2015</h2>
+<h2 class="meeting upcoming">May 20th, 2015 - Special Event</h2>
 
-**Talks**
+**It's UIKonf – and Pub Quiz Time!**
 
-- TBA
+On the day of [UIKonf](http://www.uikonf.com) Hackathon, we are going to do a follow-up of [Mattt Thomsons UIKonf Pub Quiz from 2013](http://nshipster.com/nshipster-quiz-1/).
 
-<a href="http://www.meetup.com/Cocoaheads-Berlin/events/216092912/" data-event="216092912" class="mu-rsvp-btn">RSVP</a>
+**Location**:
 
-<div id="talk-survey" class="drop-shadow lifted">
-    Are you interested in giving a talk? Send an email to <a href="https://secure.meetup.com/messages/?new_convo=true&name=Engin+Kurutepe&member_id=40052552">Engin</a>!
-</div>
+<address>
+  Max & Moritz (1st floor, “Belle Etage”)<br>
+  Oranienstraße 162<br>
+  10969 Berlin<br>
+  <a href="http://www.maxundmoritzberlin.de/">Website</a>
+</address>
+
+The room only fits **60 persons**, and we must be strict on this limit. **You must RSVP via Meetup to attend!**
+
+<strong style="font-size:x-large;">Please do not RSVP if you <em>possibly</em> don't attend!</strong>
+
+You might block the seat of someone who really would like to go.
+
+<a href="http://www.meetup.com/Cocoaheads-Berlin/events/222088358/" data-event="222088358" class="mu-rsvp-btn">RSVP</a>
 
 # Recent Meetings
 
 <h2 class="meeting">Apr 15th, 2015</h2>
 
-* Real-time Audio Using Swift – [Ariel Elkin](http://arielelkin.github.io/)
-* Practical WatchKit Development – [Claus Höfele](https://twitter.com/claushoefele)
+* [Real-time Audio Using Swift](https://vimeo.com/125703971) ([Slides](http://faturl.com/swiftyaudio/)) – [Ariel Elkin](http://arielelkin.github.io/)
+* Practical WatchKit Development ([Slides](https://speakerdeck.com/choefele/practical-watchkit-development)) – [Claus Höfele](https://twitter.com/claushoefele)
 * Thanks to [Wire](https://www.wire.com/) for sponsoring drinks and pizza!
 
 <h2 class="meeting">March 18th, 2015</h2>
@@ -106,12 +121,15 @@ Wanna grab something to eat before the meetup? There is a good pizza/pasta place
 
 Also, there are a lot of food stalls around U Mehringdamm.
 
-# About
+# The Team
 
-Organzier: <a href="http://www.meetup.com/Cocoaheads-Berlin/members/40052552/">Engin Kurutepe</a>
-
-A list of our members can be found on our [Meetup page](http://www.meetup.com/Cocoaheads-Berlin/members).
+<div class="row" id="team-list">
+  <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/dhyanascarano/"><img src="images/team-dhyana.jpg" class="img-responsive"><br/>Dhyana Scarano</a></div>
+  <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/warcholuke"><img src="images/team-lukasz.jpg" class="img-responsive"><br/>Lukasz Warchol</a></div>
+  <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/richeterre"><img src="images/team-martin.jpg" class="img-responsive"><br/><span >Martin Richter</span></a></div>
+  <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/rpitting/"><img src="images/team-reiner.jpg" class="img-responsive"><br/>Reiner Pittinger</a></div>
+</div>
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://secure.meetup.com/script/577045002335750872971/api/mu.btns.js?id=d8gmi7g0lpfphds73fejqnauo4";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
-<p class="footer">CocoaHeads Berlin Logo and Website designed by Reiner Pittinger.</p>
+<p class="footer">CocoaHeads Berlin Logo and Website designed by <a href="http://www.digital-wave.de">Reiner Pittinger</a>.</p>
