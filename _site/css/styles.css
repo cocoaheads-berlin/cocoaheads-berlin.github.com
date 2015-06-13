@@ -88,12 +88,13 @@ p {
 	background-position: -120px 0;
 }
 
-h2.meeting {
+.meetings h2,
+.next-meeting h2 {
 	padding: 8px;
 	background: #eee;
 }
 
-h2.meeting.upcoming { 
+.next-meeting h2 { 
 	background-color: #FF8C00;
 	color: #fff;
 }
