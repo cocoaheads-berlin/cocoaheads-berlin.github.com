@@ -5,6 +5,40 @@ title: Talks Archive
 
 # Talks Archive
 
+## 2015
+
+### June 17th, 2015, 7pm @ SoundCloud
+
+* <strong><a href="https://twitter.com/plaetzchen">Philip Brechler</a></strong>: Testing Views with Snapshots
+* <strong>WWDC Open Panel Discussion</strong>: share your thoughts on the news from WWDC - from Swift 2 to `trimforce`!
+
+### May 20th, 2015 - Special Event
+
+**It's UIKonf – and Pub Quiz Time!**
+
+On the day of [UIKonf](http://www.uikonf.com) Hackathon, we are going to do a follow-up of [Mattt Thomsons UIKonf Pub Quiz from 2013](http://nshipster.com/nshipster-quiz-1/).
+
+### Apr 15th, 2015
+
+* [Real-time Audio Using Swift](https://vimeo.com/125703971) ([Slides](http://faturl.com/swiftyaudio/)) – [Ariel Elkin](http://arielelkin.github.io/)
+* Practical WatchKit Development ([Slides](https://speakerdeck.com/choefele/practical-watchkit-development)) – [Claus Höfele](https://twitter.com/claushoefele)
+* Thanks to [Wire](https://www.wire.com/) for sponsoring drinks and pizza!
+
+### March 18th, 2015
+
+* CloudKit with Swift – Jens Ravens – [@jensravens](https://twitter.com/jensravens)
+
+### Feb 18th, 2015
+
+* [Efficient localisation: 3 tools to accelerate the global growth of your iOS app](http://coderstand.me/2015/02/18/Efficient-Localisation/localisation.pdf) – Edgar Neto and Martin Deville
+* [Higher Order Messaging](https://www.dropbox.com/s/nghn2754nwinych/HOM-2015.pdf?dl=0) ([Files](http://www.metaobject.com/downloads/Objective-C/HOM.zip)) – Marcel Weiher
+
+### Jan 21st, 2015, 7pm @ GetYourGuide Deutschland GmbH
+
+* [Alex Denisov](https://github.com/AlexDenisov): [Clang Compilation Process](https://speakerdeck.com/alexdenisov/compilation-process)
+* [Marcio Klepacz](https://github.com/marciok): How we integrate & deploy Mobile Apps with Travis CI
+* Thanks to GetYourGuide for the free pizza and beer 
+
 ## 2014
 
 ### Dec 17th, 2014

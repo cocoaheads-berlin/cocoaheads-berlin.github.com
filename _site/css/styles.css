@@ -88,13 +88,18 @@ p {
 	background-position: -120px 0;
 }
 
-.meetings h2,
-.next-meeting h2 {
+#social-buttons .meetup {
+	background-image: url(../images/meetup_logo_highres_147421062.jpg);
+	background-position: center 10px;
+	background-size: 80%;
+}
+
+h2.meeting {
 	padding: 8px;
 	background: #eee;
 }
 
-.next-meeting h2 { 
+h2.meeting.upcoming { 
 	background-color: #FF8C00;
 	color: #fff;
 }
@@ -235,3 +240,45 @@ span.metrobus {
 .clearfix:after { clear: both; }
 /* Fix clearfix: blueprintcss.lighthouseapp.com/projects/15318/tickets/5-extra-margin-padding-bottom-of-page */
 .clearfix { zoom: 1; }
+
+/* Buttons */
+button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+	
+	background: #fd8c01; /* W3C */
+	border: none;
+	border-bottom: 3px solid #b93207;
+	border-radius: 2px;
+	color: #fff;
+	display: inline-block;
+	padding: 11px 24px 10px;
+	text-decoration: none;
+}
+
+button:hover,
+button:focus,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus {
+	background: #fd8c01; /* Old browsers */
+	background: -webkit-linear-gradient(top, #fd8c01 0%, #e55627 100%); /* Chrome 10+, Safari 5.1+ */
+	background:   linear-gradient(to bottom, #fd8c01 0%, #e55627 100%); /* W3C */
+	outline: none;
+}
+
+button:active,
+input[type="submit"]:active,
+input[type="button"]:active,
+input[type="reset"]:active {
+	background: #d94412; /* Old browsers */
+	background: -webkit-linear-gradient(top, #fd8c01 0%, #e05d22 100%); /* Chrome 10+, Safari 5.1+ */
+	background:   linear-gradient(to bottom, #fd8c01 0%, #e05d22 100%); /* W3C */
+	border: none;
+	border-top: 3px solid #b93207;
+	padding: 10px 24px 11px;
+}
