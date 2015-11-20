@@ -54,14 +54,17 @@ p {
 
 #social-buttons {
 	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 3em;
 }
 
 #social-buttons a {
 	border: 2px solid #FF8C00;
 	background-image: url(../images/social-icons.png);
+	background-position: center;
 	background-repeat: no-repeat;
-	height: 100px;
-	width: 100px;
+	height: 70px;
+	width: 70px;
 	color: #FF8C00;
 	text-decoration: none;
 	font-family: 'Open Sans', sans-serif;
@@ -69,29 +72,38 @@ p {
 	font-weight:800;
 	font-size: 0.7em;
 	display: inline-block;
-	margin: 4px;
-	padding: 8px;
-	padding-top: 70px;
+	margin: 2px;
+	padding: 4px;
+	padding-top: 60px;
 	position: relative;
 	text-align: center;
 }
 
+#social-buttons .title {
+	display: block;
+	margin-top: 10px;
+}
+
 #social-buttons .twitter {
-	background-position: 8px 0;
+	background-image: url(../images/icon-twitter.png);
 }
 
 #social-buttons .vimeo {
-	background-position: -250px 0;
+	background-image: url(../images/icon-vimeo.png);
 }
 
 #social-buttons .google {
-	background-position: -120px 0;
+	background-image: url(../images/icon-google.png);
 }
 
 #social-buttons .meetup {
 	background-image: url(../images/meetup_logo_highres_147421062.jpg);
-	background-position: center 10px;
+	background-position: center 15px;
 	background-size: 80%;
+}
+
+#team-list {
+	margin: 3em 0;
 }
 
 h2.meeting {
