@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome!
+title: Welcome
 ---
 
 We are the Berlin chapter of the [CocoaHeads](http://www.cocoaheads.org) community. We meet once every month, **usually every 3rd Wednesday of the month**, and talk about iOS and OS X development. 
