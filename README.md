@@ -1,4 +1,4 @@
-![Cocoaheads Berlin Logo](images/cocoaheads-berlin-logo.png)
+![Cocoaheads Berlin Logo](images/cocoaheads-berlin-logo-new.png)
 
 #Welcome to Berlin CocoaHeads!
 
@@ -9,3 +9,9 @@ Follow us on Twitter: [@cocoaheads_Ber](https://twitter.com/cocoaheads_BER)
 Watch our talks on Vimeo: [CocoaHeads Berlin Channel](https://vimeo.com/channels/cocoaheadsberlin)
 
 We're also on [Meetup](http://www.meetup.com/Cocoaheads-Berlin/)
+
+## Notes
+
+Test page locally:
+
+	$ bundle exec jekyll serve
