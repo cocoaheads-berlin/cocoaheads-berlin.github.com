@@ -24,20 +24,15 @@ If you're into Cocoa and in Berlin, come by and say Hi!
 </div>
 
 <div id="talk-survey" class="drop-shadow lifted">
-    <p>Are you interested in <strong>giving a talk</strong> or <strong>do you want to host a meeting</strong>?</p><p class="text-center"><a href="mailto:&#116;&#101;&#097;&#109;&#064;&#099;&#111;&#099;&#111;&#097;&#104;&#101;&#097;&#100;&#115;&#045;&#098;&#101;&#114;&#108;&#105;&#110;&#046;&#111;&#114;&#103;"><button>Contact the team!</button></a></p>
+    <p>Are you interested in <strong>giving a talk</strong> or <strong>do you want to host a meeting</strong>?</p>
+    <p class="text-center"><a href="mailto:&#116;&#101;&#097;&#109;&#064;&#099;&#111;&#099;&#111;&#097;&#104;&#101;&#097;&#100;&#115;&#045;&#098;&#101;&#114;&#108;&#105;&#110;&#046;&#111;&#114;&#103;"><button>Contact the team!</button></a></p>
 </div>
-
-<section class="next-meeting">
 
 # Next Meeting
 
 <a href="http://www.meetup.com/Cocoaheads-Berlin/"><button>See our Meetup page for the next meeting!</button></a>
 
 Past talks can be found on our [Meetup page](http://www.meetup.com/Cocoaheads-Berlin/) in the [archive](talks-archive.html).
-
-</section>
-
-<section class="presenting">
 
 # Presenting at CocoaHeads
 
@@ -54,8 +49,6 @@ Here is what you should prepare:
 - Please respect our [code of conduct](code-of-conduct.html).
 
 <p><a href="mailto:&#116;&#101;&#097;&#109;&#064;&#099;&#111;&#099;&#111;&#097;&#104;&#101;&#097;&#100;&#115;&#045;&#098;&#101;&#114;&#108;&#105;&#110;&#046;&#111;&#114;&#103;"><button>Contact the team!</button></a></p>
-
-</section>
 
 <a name="location"></a>
 
@@ -109,7 +102,7 @@ A typical agenda looks like this:
 			</tr>
 			<tr>
 				<td>8.20 p.m.</td>
-				<td>Software Licence Lottery</td>
+				<td>Software License Lottery</td>
 			</tr>
 			<tr>
 				<td>8.25 p.m.</td>
