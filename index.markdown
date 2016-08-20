@@ -42,10 +42,11 @@ Here is what you should prepare:
 
 - **~30 minutes of presentation** + 5 min. Q & A
 - We have a **tech-savvy audience**.
-- You can present your company, but please keept it under 5 minutes.
+- You can present your company, but please keep it under 5 minutes.
 - Beamer, cables and often also adapters are usually supplied by the host. Sound equipment usually is *not*.
 - **Send us the title about 1 week in advance**.
 - **If cannot make it, please tell us as soon as possible**, so we can see if we find another speaker.
+- We would like to record your presentation for our [Vimeo Channel](https://vimeo.com/channels/cocoaheadsberlin) (we use simple QuickTime screen recording).
 - Please respect our [code of conduct](code-of-conduct.html).
 
 <p><a href="mailto:&#116;&#101;&#097;&#109;&#064;&#099;&#111;&#099;&#111;&#097;&#104;&#101;&#097;&#100;&#115;&#045;&#098;&#101;&#114;&#108;&#105;&#110;&#046;&#111;&#114;&#103;"><button>Contact the team!</button></a></p>
@@ -63,6 +64,7 @@ Here is what we generally require for our meetings:
 - **Space for around 70+ people**
 - Beamer, cables, connectors for Macs
 - Food and drinks. You are welcome to sponsor, but decent pricing would be okay, too.
+- **If possible, please provide some photos of the venue** for us and the speakers.
 
 <div id="talk-survey" class="drop-shadow lifted">
     <p><strong>You would like to host CocoaHeads? Great!</strong></p>
@@ -113,7 +115,7 @@ A typical agenda looks like this:
 				<td>Community Networking</td>
 			</tr>
 			<tr>
-				<td colspan="2">~ 10 p.m. (or earlier if necesarry): Official End</td>
+				<td colspan="2">~ 10 p.m. (or earlier if necessary): Official End</td>
 			</tr>
 		</table>
 	</div>
