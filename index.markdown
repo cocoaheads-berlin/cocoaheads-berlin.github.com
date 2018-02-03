@@ -148,7 +148,4 @@ We thank our previous team members for organizing!
 	<p>
 	CocoaHeads Berlin Logo and Website designed by <a href="http://www.digital-wave.de">Reiner Pittinger</a>.
 	</p>
-	<p>
-		Social Icons designed by Freepik.com
-	</p>
 </div>
