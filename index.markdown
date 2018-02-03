@@ -9,10 +9,10 @@ If you're into Cocoa and in Berlin, come by and say Hi!
 
 <div class="container-fluid" id="social-buttons">
 	<ul class="soc">
-    	<li><a class="soc-meetup soc-icon-last" href="http://www.meetup.com/Cocoaheads-Berlin/"></a></li>
+    	<li><a class="soc-meetup" href="http://www.meetup.com/Cocoaheads-Berlin/"></a></li>
     	<li><a class="soc-twitter" href="https://twitter.com/cocoaheads_BER"></a></li>
     	<li><a class="soc-youtube" href="https://www.youtube.com/channel/UCJ0JUzZs0HRsvaUwEUjGDTA"></a></li>
-    	<li><a class="soc-vimeo" href="https://vimeo.com/channels/cocoaheadsberlin"></a></li>
+    	<li><a class="soc-vimeo soc-icon-last" href="https://vimeo.com/channels/cocoaheadsberlin"></a></li>
 	</ul>
 	<div class="clear"></div>
 </div>

@@ -11,6 +11,7 @@ body {
 }
 
 #header-banner {
+	margin-bottom: 2em;
 }
 
 #logo-image {
@@ -58,48 +59,95 @@ p {
 	margin-bottom: 3em;
 }
 
-#social-buttons a {
-	border: 2px solid #FF8C00;
-	background-image: url(../images/social-icons.png);
-	background-position: center;
-	background-repeat: no-repeat;
-	height: 70px;
-	width: 70px;
-	color: #FF8C00;
-	text-decoration: none;
-	font-family: 'Open Sans', sans-serif;
-	text-transform: uppercase;
-	font-weight:800;
-	font-size: 0.7em;
-	display: inline-block;
-	margin: 2px;
-	padding: 4px;
-	padding-top: 60px;
-	position: relative;
-	text-align: center;
+@font-face {
+    font-family: 'si';
+    src: url('../fonts/socicon.eot');
+    src: url('../fonts/socicon.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/socicon.woff') format('woff'),
+         url('../fonts/socicon.ttf') format('truetype'),
+         url('../fonts/socicon.svg#icomoonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
-#social-buttons .title {
-	display: block;
-	margin-top: 10px;
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family:si;
+        src: url(../fonts/socicon.svg) format(svg);
+    }
 }
 
-#social-buttons .twitter {
-	background-image: url(../images/icon-twitter.png);
+.soc {
+    overflow:hidden;
+    margin:0; padding:0;
+    list-style:none;
 }
 
-#social-buttons .vimeo {
-	background-image: url(../images/icon-vimeo.png);
+.soc li {
+    display:inline-block;
+    *display:inline;
+    zoom:1;
 }
 
-#social-buttons .google {
-	background-image: url(../images/icon-google.png);
+.soc li a {
+    font-family:si!important;
+    font-style:normal;
+    font-weight:400;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    -o-box-sizing:border-box;
+    box-sizing:border-box;
+
+    -o-transition:.1s;
+    -ms-transition:.1s;
+    -moz-transition:.1s;
+    -webkit-transition:.1s;
+    transition:.1s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+
+    overflow:hidden;
+    text-decoration:none;
+    text-align:center;
+    display:block;
+    position: relative;
+    z-index: 1;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 33px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+    color: #ffffff;
+    background-color: #FF8C00;
 }
 
-#social-buttons .meetup {
-	background-image: url(../images/meetup_logo_highres_147421062.jpg);
-	background-position: center 15px;
-	background-size: 80%;
+.soc-icon-last{
+    margin:0 !important;
+}
+
+.soc-twitter:before {
+    content:'\e040';
+}
+.soc-googleplus:before {
+    content:'\e042';
+}
+.soc-youtube:before {
+    content:'\e051';
+}
+.soc-vimeo:before {
+    content:'\e052';
+}
+.soc-meetup:before {
+    content:'\e03c';
 }
 
 #team-list {
