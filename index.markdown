@@ -125,7 +125,7 @@ Drinks are usually provided by the hosting company of the event.
 # The Team
 <a id="team"></a>
 <p><a href="mailto:&#116;&#101;&#097;&#109;&#064;&#099;&#111;&#099;&#111;&#097;&#104;&#101;&#097;&#100;&#115;&#045;&#098;&#101;&#114;&#108;&#105;&#110;&#046;&#111;&#114;&#103;"><button>Contact the team!</button></a></p>
-<div class="row" id="team-list">
+<div class="row team-list">
   <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/amelyun/"><img src="images/team-melissa.png" class="img-responsive"><br/>Melissa Yung</a></div>
   <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/warcholuke"><img src="images/team-lukasz.png" class="img-responsive"><br/>Lukasz Warchol</a></div>
   <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/richeterre"><img src="images/team-martin.png" class="img-responsive"><br/><span >Martin Richter</span></a></div>
@@ -136,9 +136,9 @@ Drinks are usually provided by the hosting company of the event.
 
 We thank our previous team members for organizing!
 
-<div class="row">
-	<div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/rpitting/"><img src="images/team-reiner.png" class="img-responsive"><br/>Reiner Pittinger (2008-2017)</a></div>
-  <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/dhyanascarano/"><img src="images/team-dhyana.png" class="img-responsive"><br/>Dhyana Scarano (2013-2016)</a></div>
+<div class="row team-list">
+	<div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/rpitting/"><img src="images/team-reiner.png" class="img-responsive"><br>Reiner Pittinger<br>(2008-2017)</a></div>
+  <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/dhyanascarano/"><img src="images/team-dhyana.png" class="img-responsive"><br/>Dhyana Scarano<br>(2013-2016)</a></div>
   <div class="col-md-3 col-xs-3 text-center"><a href="https://twitter.com/ekurutepe"><img src="images/team-engin.png" class="img-responsive"><br/>Engin Kurutepe</a></div>
 </div>
 

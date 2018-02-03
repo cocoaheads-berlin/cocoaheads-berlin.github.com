@@ -150,8 +150,12 @@ p {
     content:'\e03c';
 }
 
-#team-list {
+.team-list {
 	margin: 3em 0;
+}
+
+.team-list a img {
+	width: auto;
 }
 
 h2.meeting {
